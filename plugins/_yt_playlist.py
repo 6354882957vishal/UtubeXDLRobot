@@ -1,4 +1,4 @@
-# Copyright ©️ 2023 Sanila Ranatunga. All Rights Reserved
+# Copyright ©️ 2023 Saeed Goraya. All Rights Reserved
 
 from pytube import Playlist
 from pyrogram import Client, filters
