@@ -1,4 +1,4 @@
-# Copyright ©️ 2023 Sanila Ranatunga. All Rights Reserved
+# Copyright ©️ 2023 Saeed Goraya. All Rights Reserved
 
 import os
 
