@@ -1,4 +1,4 @@
-# Copyright ©️ 2023 Sanila Ranatunga. All Rights Reserved
+# Copyright ©️ 2023 Saeed Goraya. All Rights Reserved
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
@@ -11,7 +11,7 @@ import os
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("🔍Search YouTube", switch_inline_query_current_chat="")
+            InlineKeyboardButton("🔍 Search YouTube", switch_inline_query_current_chat="")
         ]
     ]
 )
@@ -60,11 +60,11 @@ async def inlinequery(client, inline_query):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🎥Watch on YouTube", url=yt_link),
-                                InlineKeyboardButton("🔍Search again", switch_inline_query_current_chat="")
+                                InlineKeyboardButton("🎥 Watch on YouTube", url=yt_link),
+                                InlineKeyboardButton("🔍 Search Again", switch_inline_query_current_chat="")
                             ],
                             [
-                                InlineKeyboardButton("📁Download", callback_data="link_down")
+                                InlineKeyboardButton("📁 Download", callback_data="link_down")
                             ]
                         ]
                     ),
@@ -83,8 +83,8 @@ async def inlinequery(client, inline_query):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🎥Watch on YouTube", url=yt_link),
-                                InlineKeyboardButton("🔍Search again", switch_inline_query_current_chat="")
+                                InlineKeyboardButton("🎥 Watch on YouTube", url=yt_link),
+                                InlineKeyboardButton("🔍 Search Again", switch_inline_query_current_chat="")
                             ]
                         ]
                     ),
@@ -100,16 +100,16 @@ async def inlinequery(client, inline_query):
 QUALITY_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("📽️High Quality", callback_data="highest_res"),
-            InlineKeyboardButton("📽️720p", callback_data="720p")
+            InlineKeyboardButton("📽️ High Quality", callback_data="highest_res"),
+            InlineKeyboardButton("📽️ 720p", callback_data="720p")
         ],
         [
-            InlineKeyboardButton("📽️Low Quality", callback_data="lowest_res"),
-            InlineKeyboardButton("📽️480p", callback_data="480p")
+            InlineKeyboardButton("📽️ Low Quality", callback_data="lowest_res"),
+            InlineKeyboardButton("📽️ 480p", callback_data="480p")
         ],
         [
-            InlineKeyboardButton("🎵Audio", callback_data="audio"),
-            InlineKeyboardButton("📽️360p", callback_data="360p")
+            InlineKeyboardButton("🎵 Audio", callback_data="audio"),
+            InlineKeyboardButton("📽️ 360p", callback_data="360p")
         ]
     ]
 )
