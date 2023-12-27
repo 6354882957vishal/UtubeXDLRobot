@@ -1,4 +1,4 @@
-# Copyright ©️ 2023 Sanila Ranatunga. All Rights Reserved
+# Copyright ©️ 2023 Saeed Goraya. All Rights Reserved
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
@@ -6,7 +6,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("🔍Search YouTube", switch_inline_query_current_chat="")
+            InlineKeyboardButton("🔍 Search YouTube", switch_inline_query_current_chat="")
         ]
     ]
 )
