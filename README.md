@@ -6,14 +6,14 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/sanila2007/YouTube_bot_telegram?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/sanila2007/YouTube_bot_telegram?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/sanila2007/YouTube_bot_telegram?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github/stars/SaeedGoraya/UtubeXDLRobot?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/SaeedGoraya/UtubeXDLRobot?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/SaeedGoraya/UtubeXDLRobot?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/license/sanila2007/YouTube_bot_telegram?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/github/repo-size/sanila2007/YouTube_bot_telegram?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/sanila2007/YouTube_bot_telegram?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/sanila2007/YouTube_bot_telegram?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/SaeedGoraya/UtubeXDLRobot?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/repo-size/SaeedGoraya/UtubeXDLRobot?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/SaeedGoraya/UtubeXDLRobot?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/SaeedGoraya/UtubeXDLRobot?style=for-the-badge" alt="Issues">
 </p>
 
 ## Config Vars
@@ -32,7 +32,7 @@
 
 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanila2007/YouTube_bot_telegram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SaeedGoraya/UtubeXDLRobot)
 
 ## Disclaimer 
 
@@ -41,14 +41,14 @@ Heroku
 ```
 ## Credits
 
-- [YouTube-bot-telegram](https://github.com/sanila2007/YouTube_bot_telegram)
+- [YouTube-Downloader-Bot](https://github.com/SaeedGoraya/UtubeXDLRobot)
 ```
 
 ## Credits
 
-- [Sanila Ranatunga](https://github.com/sanila2007)
+- [Saeed Ahmed](https://github.com/SaeedGoraya)
 
-Any issues with this? Feel free to open a [New Issue](https://github.com/sanila2007/YouTube_bot_telegram/issues)
+Any issues with this? Feel free to open a [New Issue](https://github.com/SaeedGoraya/UtubeXDLRobot/issues)
 
-> Made with 💞 by <a href="https://github.com/sanila2007/YouTube_bot_telegram">@sanila2007</a>
+> Made with 💞 by <a href="https://github.com/SaeedGoraya/UtubeXDLRobot">@UtubeXDLRobot</a>
  
