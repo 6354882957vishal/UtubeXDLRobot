@@ -1,8 +1,8 @@
 {
     "name": "YouTube Video Download Bot",
     "description": "Telegram bot that can search and download youtube videos, playlists.",
-    "repository": "https://github.com/sanila2007/YouTube_bot_telegram",
-    "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdoa.gov.lk%2Fyoutube-logo%2F&psig=AOvVaw1Mkpx04Y3tlZ812CwjmJPp&ust=1672041015886000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDIq6eklPwCFQAAAAAdAAAAABAI",
+    "repository": "https://github.com/SaeedGoraya/UtubeXDLRobot",
+    "logo": "https://telegra.ph/file/6af78b31e29be42427f46.jpg",
     "keywords": [
         "youtube bot",
         "video downloader",
